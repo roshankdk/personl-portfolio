@@ -1,0 +1,30 @@
+[
+    {
+        "id": "testominial-1",
+        "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates doloremque mollitia et optio nulla ullam aliquid officia delectus error praesentium, libero veritatis incidunt corrupti nostrumsaepe consectetur ex illum molestiae!",
+        "image": "/Asset/myImage.png",
+        "author": "1-Karl Andresom",
+        "title": "1-Bussness Owner"
+    },
+    {
+        "id": "testominial-2",
+        "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates doloremque mollitia et optio nulla ullam aliquid officia delectus error praesentium, libero veritatis incidunt corrupti nostrumsaepe consectetur ex illum molestiae!",
+        "image": "/Asset/myImage.png",
+        "author": "2-Karl Andresom",
+        "title": "2-Bussness Owner"
+    },
+    {
+        "id": "testominial-3",
+        "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates doloremque mollitia et optio nulla ullam aliquid officia delectus error praesentium, libero veritatis incidunt corrupti nostrumsaepe consectetur ex illum molestiae!",
+        "image": "/Asset/myImage.png",
+        "author": "3-Karl Andresom",
+        "title": "3-Bussness Owner"
+    },
+    {
+        "id": "testominial-4",
+        "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates doloremque mollitia et optio nulla ullam aliquid officia delectus error praesentium, libero veritatis incidunt corrupti nostrumsaepe consectetur ex illum molestiae!",
+        "image": "/Asset/myImage.png",
+        "author": "4-Karl Andresom",
+        "title": "4-Bussness Owner"
+    }
+]
